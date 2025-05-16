@@ -10,7 +10,7 @@ This is a simple clicker implemented in a single HTML file. The goal was to crea
 
 ## Usage
 
-Open the `index.html` file in any modern web browser. Click the button to increase the counter.
+Open the `click.html` file in any modern web browser. Click the button to increase the counter.
 
 ## File Size
 
